@@ -1275,3 +1275,19 @@ border-color:#E63946;
     }
 
 }
+@media (min-width: 769px) and (max-width: 1100px) {
+
+    .hero-left {
+        width: 50%;
+    }
+
+    .hero-right {
+        width: 50%;
+    }
+
+    .image-box {
+        width: 280px;
+        height: 280px;
+    }
+
+}
